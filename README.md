@@ -60,6 +60,10 @@ This is a baseline. Not legal advice. Not a security audit. Not a substitute for
 
 Jurisdictions mentioned are mostly US plus GDPR/UK because that is the lane most indie SaaS ships into. If you sell into other regions, add the local equivalents. If you build in regulated industries (health, finance, education), the industry-specific section points to the regimes that override everything else in here.
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT.
