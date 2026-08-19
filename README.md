@@ -10,28 +10,28 @@ One file: `security-legal-baseline.md`. Four sections.
 
 ### Security baseline
 
-→ Secrets and credentials
-→ Transport and headers
-→ Auth and sessions
-→ Authorization
-→ Input and output
-→ Rate limits and abuse
-→ Data handling
-→ Logging and monitoring
-→ Dependencies and supply chain
-→ DNS and email infrastructure
-→ Backup and recovery
-→ AI / LLM specific
-→ Pre-launch verification
+-> Secrets and credentials
+-> Transport and headers
+-> Auth and sessions
+-> Authorization
+-> Input and output
+-> Rate limits and abuse
+-> Data handling
+-> Logging and monitoring
+-> Dependencies and supply chain
+-> DNS and email infrastructure
+-> Backup and recovery
+-> AI / LLM specific
+-> Pre-launch verification
 
 ### Legal and compliance baseline
 
-→ Required pages on every public site (Privacy, Terms, Cookie notice, Refund, DMCA, Affiliate disclosure, Accessibility)
-→ Data subject rights (GDPR, CCPA, COPPA)
-→ Consent and marketing disclosure (CAN-SPAM, TCPA, FTC endorsement guides, click-to-cancel)
-→ Vendor and subprocessor management (DPAs, breach notification)
-→ Business protection (entity, EIN, trademark, insurance, sales tax nexus)
-→ Industry-specific (HIPAA, GLBA, FERPA, COPPA, PCI-DSS, SOC 2)
+-> Required pages on every public site (Privacy, Terms, Cookie notice, Refund, DMCA, Affiliate disclosure, Accessibility)
+-> Data subject rights (GDPR, CCPA, COPPA)
+-> Consent and marketing disclosure (CAN-SPAM, TCPA, FTC endorsement guides, click-to-cancel)
+-> Vendor and subprocessor management (DPAs, breach notification)
+-> Business protection (entity, EIN, trademark, insurance, sales tax nexus)
+-> Industry-specific (HIPAA, GLBA, FERPA, COPPA, PCI-DSS, SOC 2)
 
 ### Hard rules
 
